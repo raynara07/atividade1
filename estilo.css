@@ -1,0 +1,23 @@
+#cachorro {
+	width: 10em;
+	margin-top: 450px;
+	margin-left: 170px;
+	border: 5px solid paleturquoise;
+}
+
+#casa {
+	width: 8em;
+	position: absolute;
+	top: 600px;
+	left: 1200px;
+}
+
+#campo {
+	width: 5em;
+	display: block;
+	margin-top: 3em;
+}
+
+body {
+	background-color: greenyellow;
+}
